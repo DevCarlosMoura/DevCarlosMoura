@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-carlos-python.png" alt="Carlos — Python Developer" width="100%">
+  <img src="./banner-carlos-python.png" alt="Carlos — Alt Python Developer" width="100%">
 </p>
 
 # 👋 Hey, I’m Carlos
