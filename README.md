@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner-python.png" alt="Carlos — Python Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/DevCarlosPy/DevCarlosPy/main/banner-python.png" alt="Carlos Moura — Python Developer" width="100%">
 </p>
+
 
 # 👋 Hey, I’m Carlos
 
