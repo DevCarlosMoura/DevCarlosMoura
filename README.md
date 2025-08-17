@@ -33,11 +33,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUser&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser&layout=compact&theme=radical)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?DevCarlosMoura=DevCarlosMoura&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DevCarlosMoura=DevCarlosMoura&layout=compact&theme=radical)
 
 <!-- Snake (será gerado pela Action do passo 5) -->
-![Snake animation](https://raw.githubusercontent.com/SeuUser/SeuUser/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/snake.svg)
 
 ---
 
