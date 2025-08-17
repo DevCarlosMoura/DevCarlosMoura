@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 Hey, I’m Carlos
+# 👋 Hey, My name is Carlos Moura and i'm a python developer
 
 💻 **Python Developer** | 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
 
