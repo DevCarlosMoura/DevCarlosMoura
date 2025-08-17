@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-python.png" alt="Carlos Moura — Python Developer" width="100%">
+  <img src="./banner-python.png" alt="Carlos Moura — Python Developer" width="25%">
 </p>
 
 
