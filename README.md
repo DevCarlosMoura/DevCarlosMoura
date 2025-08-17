@@ -36,7 +36,7 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCarlosMoura&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosMoura&layout=compact&theme=radical)
 
-![Snake animation](https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/snake.svg)
 
 ---
 
