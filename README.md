@@ -23,7 +23,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-t.he-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -35,8 +35,6 @@
 ## 📊 GitHub Stats
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?DevCarlosMoura=DevCarlosMoura&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DevCarlosMoura=DevCarlosMoura&layout=compact&theme=radical)
-
-<!-- Snake (será gerado pela Action do passo 5) -->
 ![Snake animation](https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/snake.svg)
 
 ---
