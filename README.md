@@ -13,7 +13,7 @@
 - 🎯 Focused on **Python, Automation, APIs, and Backend Development**
 - 🌍 Building projects for an **international portfolio**
 - 📚 Currently studying **advanced Python, data engineering and system integration**
-- ⚡ Geek/otaku culture + tech innovation
+- ⚡ Tech Innovation
 
 ---
 
