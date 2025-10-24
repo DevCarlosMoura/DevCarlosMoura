@@ -5,21 +5,21 @@
 
 # 👋 Hey, My name is Carlos Moura and i'm a python developer
 
-💻 **Python/Java Developer** | 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
+💻 **Python and Java Developer** | 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
 
 ---
 
 ## 🚀 About Me
-- 🎯 Focused on **Python, Automation, APIs, and Backend Development**
+- 🎯 Focused on **Python, Java, Automation, APIs, and Backend Development**
 - 🌍 Building projects for an **international portfolio**
-- 📚 Currently studying **advanced Python, data engineering and system integration**
+- 📚 Currently studying **advanced Python,advanced Java, data engineering and system integration**
 - ⚡ Tech Innovation
 
 ---
 
 ## 🏆 Achievements & Skills
-**Core stack:** Python • REST APIs • SQL • Git/GitHub • Docker • Linux • CI/CD  
-**Also:** FastAPI/Flask • PostgreSQL • Requests/AIOHTTP • Pandas
+**Core stack:** Python • Java • REST APIs • SQL • Git/GitHub • Docker • Linux • CI/CD  
+**Also:** FastAPI/Flask • SpringBoot • PostgreSQL • Requests/AIOHTTP • Pandas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
