@@ -3,15 +3,16 @@
 </p>
 
 
-# 👋 Hey, My name is Carlos Moura and i'm a python developer
+# 👾 Hey, My name is Carlos Moura and i'm a full-stack developer
 
-💻 **Python and Java Developer** | 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
+💻 Full-stack Developer | 👨🏻‍💻 Java & Python Specialist| 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
 
 ---
 
 ## 🚀 About Me
 - 🎯 Focused on **Python, Java, Automation, APIs, and Backend Development**
 - 🌍 Building projects for an **international portfolio**
+- 🖥️ IT support at @MercadoLivreBrasil
 - 📚 Currently studying **advanced Python,advanced Java, data engineering and system integration**
 - ⚡ Tech Innovation
 
@@ -19,7 +20,7 @@
 
 ## 🏆 Achievements & Skills
 **Core stack:** Python • Java • REST APIs • SQL • Git/GitHub • Docker • Linux • CI/CD  
-**Also:** FastAPI/Flask • SpringBoot • PostgreSQL • Requests/AIOHTTP • Pandas
+**Also:** FastAPI/Flask • SpringBoot • PostgreSQL • Requests/AIOHTTP • Pandas • Grafana
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -46,4 +47,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.carlosmoura@gmail.com)
 
 ---
-✨ *“Code, Create, and Evolve — one commit at a time.”*
+🔥 *“Code, Create, and Evolve — one commit at a time.”*
