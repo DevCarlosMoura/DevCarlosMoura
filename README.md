@@ -5,7 +5,7 @@
 
 # 👾 Hey, My name is Carlos Moura and i'm a full-stack developer
 
-💻 Full-stack Developer | 👨🏻‍💻 Java & Python Specialist| 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
+💻 Full-stack Developer | 👨🏻‍💻 Java & Python Specialist | 🌍 Automation & Data for Global Market | 🚀 Backend & APIs Enthusiast  
 
 ---
 
