@@ -32,10 +32,8 @@ Desenvolvedor **Full Stack Java em formação**, com foco em APIs REST, serviço
 
 ## Estatísticas do GitHub
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCarlosMoura&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Carlos Moura" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosMoura&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+[![Estatísticas do GitHub de Carlos Moura](https://github-readme-stats.vercel.app/api?username=DevCarlosMoura&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)](https://github.com/DevCarlosMoura)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosMoura&layout=compact&theme=transparent&hide_border=true)](https://github.com/DevCarlosMoura)
 
 ## Contribuições
 
