@@ -44,8 +44,6 @@ Desenvolvedor **Full Stack Java em formação**, com foco em APIs REST, serviço
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/snake.svg">
   <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/snake.svg">
 </picture>
-![Animação das contribuições do GitHub](https://raw.githubusercontent.com/DevCarlosMoura/DevCarlosMoura/output/snake.svg)
-
 
 ## Contato
 
